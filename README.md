@@ -6,6 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
  This is my solution to my first Frontend Mentor Challenges built with React.js and Vanilla CSS.
 
 ### screenshot
+
 ![](./Web capture_18-1-2024_212452_localhost.jpeg)
 
 ### Links 
